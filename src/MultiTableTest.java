@@ -18,6 +18,6 @@ public class MultiTableTest {
 	    assertFalse(m.checkPosInt("..."));
 	    assertTrue(m.checkPosInt("9"));
 	    assertTrue(m.checkPosInt("12"));
-	}
-
-}
+	    
+	   }
+    }
