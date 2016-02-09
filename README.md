@@ -1,4 +1,4 @@
-# Multiplication-Table [![Build Status](https://travis-ci.org/xwyml/MultiplicationTable.svg?branch=master)](https://travis-ci.org/xwyml/Multiplication Table)
+# Multiplication-Table [![Build Status](https://travis-ci.org/xwyml/MultiplicationTable.svg?branch=master)](https://travis-ci.org/xwyml/MultiplicationTable)
 ## Introduction
    This project paints a Multiplication Table or a Addition Table depending on the input from command line.
 ## Installation
